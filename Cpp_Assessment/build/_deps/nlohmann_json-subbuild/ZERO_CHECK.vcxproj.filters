@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asus\Pictures\Desktop\cppAssessment\Cpp_Assessment\build\_deps\nlohmann_json-subbuild\CMakeFiles\ee4e5792a919c3f000aad3531941d94a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{08EE2B20-8BBD-3C94-8F8F-C82544DBE437}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

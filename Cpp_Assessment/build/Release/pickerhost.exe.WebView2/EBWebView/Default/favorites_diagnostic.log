@@ -1,0 +1,29 @@
+2026-10-29 14:28:58.499: [INFO] CurrentProfilePath: C:\Users\Asus\Pictures\Desktop\cppAssessment\Cpp_Assessment\build\Release\pickerhost.exe.WebView2\EBWebView\Default
+2026-10-29 14:28:58.499: [INFO] Profiles total count: 1
+2026-10-29 14:28:58.499: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Pictures\Desktop\cppAssessment\Cpp_Assessment\build\Release\pickerhost.exe.WebView2\EBWebView\Default lastActive=null
+2026-10-29 14:28:58.499: [INFO] LastUsedProfileDir: C:\Users\Asus\Pictures\Desktop\cppAssessment\Cpp_Assessment\build\Release\pickerhost.exe.WebView2\EBWebView\Default
+2026-10-29 14:28:58.499: [INFO] OnDoneLoading sync enabled: 0
+2026-10-29 14:28:58.499: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-29 14:28:58.499: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-29 14:28:58.499: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-29 14:30:00.369: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-29 14:58:05.951: [INFO] CurrentProfilePath: C:\Users\Asus\Pictures\Desktop\cppAssessment\Cpp_Assessment\build\Release\pickerhost.exe.WebView2\EBWebView\Default
+2026-10-29 14:58:05.951: [INFO] Profiles total count: 1
+2026-10-29 14:58:05.951: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Pictures\Desktop\cppAssessment\Cpp_Assessment\build\Release\pickerhost.exe.WebView2\EBWebView\Default lastActive=2026-10-29T14:29:43.079Z
+2026-10-29 14:58:05.951: [INFO] LastUsedProfileDir: C:\Users\Asus\Pictures\Desktop\cppAssessment\Cpp_Assessment\build\Release\pickerhost.exe.WebView2\EBWebView\Default
+2026-10-29 14:58:05.951: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Pictures\Desktop\cppAssessment\Cpp_Assessment\build\Release\pickerhost.exe.WebView2\EBWebView\Default lastActive=2026-10-29T14:29:43.079Z
+2026-10-29 14:58:05.951: [INFO] OnDoneLoading sync enabled: 0
+2026-10-29 14:58:05.951: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-29 14:58:05.951: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-29 14:58:05.951: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-29 14:58:19.483: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-29 16:48:10.961: [INFO] CurrentProfilePath: C:\Users\Asus\Pictures\Desktop\cppAssessment\Cpp_Assessment\build\Release\pickerhost.exe.WebView2\EBWebView\Default
+2026-10-29 16:48:10.961: [INFO] Profiles total count: 1
+2026-10-29 16:48:10.961: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\Pictures\Desktop\cppAssessment\Cpp_Assessment\build\Release\pickerhost.exe.WebView2\EBWebView\Default lastActive=2026-10-29T14:29:43.079Z
+2026-10-29 16:48:10.961: [INFO] LastUsedProfileDir: C:\Users\Asus\Pictures\Desktop\cppAssessment\Cpp_Assessment\build\Release\pickerhost.exe.WebView2\EBWebView\Default
+2026-10-29 16:48:10.962: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\Pictures\Desktop\cppAssessment\Cpp_Assessment\build\Release\pickerhost.exe.WebView2\EBWebView\Default lastActive=2026-10-29T14:29:43.079Z
+2026-10-29 16:48:10.962: [INFO] OnDoneLoading sync enabled: 0
+2026-10-29 16:48:10.962: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-29 16:48:10.962: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-29 16:48:10.962: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-29 16:48:46.890: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

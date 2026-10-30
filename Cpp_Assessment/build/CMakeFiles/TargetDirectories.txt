@@ -1,0 +1,5 @@
+C:/Users/Asus/Pictures/Desktop/cppAssessment/Cpp_Assessment/build/CMakeFiles/pickerhost.dir
+C:/Users/Asus/Pictures/Desktop/cppAssessment/Cpp_Assessment/build/CMakeFiles/PEInjectorHarness.dir
+C:/Users/Asus/Pictures/Desktop/cppAssessment/Cpp_Assessment/build/CMakeFiles/Dll1.dir
+C:/Users/Asus/Pictures/Desktop/cppAssessment/Cpp_Assessment/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Asus/Pictures/Desktop/cppAssessment/Cpp_Assessment/build/CMakeFiles/ZERO_CHECK.dir

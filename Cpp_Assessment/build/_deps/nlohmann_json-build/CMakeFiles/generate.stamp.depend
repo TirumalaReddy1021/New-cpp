@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/ExternalProject.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/ExternalProject/shared_internal_commands.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/GNUInstallDirs.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Asus/Pictures/Desktop/cppAssessment/cpp_assessment/build/_deps/nlohmann_json-src/CMakeLists.txt
+C:/Users/Asus/Pictures/Desktop/cppAssessment/cpp_assessment/build/_deps/nlohmann_json-src/cmake/config.cmake.in
+C:/Users/Asus/Pictures/Desktop/cppAssessment/cpp_assessment/build/_deps/nlohmann_json-src/cmake/nlohmann_jsonConfigVersion.cmake.in
+C:/Users/Asus/Pictures/Desktop/cppAssessment/cpp_assessment/build/_deps/nlohmann_json-src/cmake/pkg-config.pc.in

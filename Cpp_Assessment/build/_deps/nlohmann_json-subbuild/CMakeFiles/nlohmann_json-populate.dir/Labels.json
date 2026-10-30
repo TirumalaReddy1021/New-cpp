@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Asus/Pictures/Desktop/cppAssessment/Cpp_Assessment/build/_deps/nlohmann_json-subbuild/CMakeFiles/nlohmann_json-populate"
+		},
+		{
+			"file" : "C:/Users/Asus/Pictures/Desktop/cppAssessment/Cpp_Assessment/build/_deps/nlohmann_json-subbuild/CMakeFiles/ee4e5792a919c3f000aad3531941d94a/nlohmann_json-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Asus/Pictures/Desktop/cppAssessment/Cpp_Assessment/build/_deps/nlohmann_json-subbuild/CMakeFiles/e0d6e8a15f12ce6be5b498e5b0f4a49e/nlohmann_json-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Asus/Pictures/Desktop/cppAssessment/Cpp_Assessment/build/_deps/nlohmann_json-subbuild/CMakeFiles/6cfe54b2c7b2c1552edb5f4a8ee04c3c/nlohmann_json-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Asus/Pictures/Desktop/cppAssessment/Cpp_Assessment/build/_deps/nlohmann_json-subbuild/CMakeFiles/6cfe54b2c7b2c1552edb5f4a8ee04c3c/nlohmann_json-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Asus/Pictures/Desktop/cppAssessment/Cpp_Assessment/build/_deps/nlohmann_json-subbuild/CMakeFiles/6cfe54b2c7b2c1552edb5f4a8ee04c3c/nlohmann_json-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Asus/Pictures/Desktop/cppAssessment/Cpp_Assessment/build/_deps/nlohmann_json-subbuild/CMakeFiles/6cfe54b2c7b2c1552edb5f4a8ee04c3c/nlohmann_json-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Asus/Pictures/Desktop/cppAssessment/Cpp_Assessment/build/_deps/nlohmann_json-subbuild/CMakeFiles/6cfe54b2c7b2c1552edb5f4a8ee04c3c/nlohmann_json-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Asus/Pictures/Desktop/cppAssessment/Cpp_Assessment/build/_deps/nlohmann_json-subbuild/CMakeFiles/6cfe54b2c7b2c1552edb5f4a8ee04c3c/nlohmann_json-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Asus/Pictures/Desktop/cppAssessment/Cpp_Assessment/build/_deps/nlohmann_json-subbuild/CMakeFiles/6cfe54b2c7b2c1552edb5f4a8ee04c3c/nlohmann_json-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Asus/Pictures/Desktop/cppAssessment/Cpp_Assessment/build/_deps/nlohmann_json-subbuild/CMakeFiles/6cfe54b2c7b2c1552edb5f4a8ee04c3c/nlohmann_json-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nlohmann_json-populate"
+		],
+		"name" : "nlohmann_json-populate"
+	}
+}
